@@ -1,0 +1,18 @@
+body {
+  background: url("img/background.jpg");
+    display: flex;
+    justify-content: center;
+  }
+  
+  .bird  {
+    width: 8rem;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 80px;
+  }
+
+  .bird {
+    left: 50px;
+}
+  
+  
